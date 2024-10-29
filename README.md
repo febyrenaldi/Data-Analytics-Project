@@ -14,4 +14,4 @@ Learning Playground: Ideal for aspiring data enthusiasts, this repository provid
 Innovation Hub: Explore novel ways of approaching data challenges, leveraging the synergy of three powerful tools - Tableau, SQL, and Spreadsheets.
 Collaborative Insights: Join us in our exploration journey! We welcome collaboration, feedback, and discussions to collectively enhance our analytical skills.
 
-🔗 Dive in now and witness the magic that unfolds when data meets creativity. Let's decode the stories that lie within the numbers!
+🔗 Dive in now and witness the magic that unfolds when data meets creativity. Let's decode the stories that lie within the numbers
