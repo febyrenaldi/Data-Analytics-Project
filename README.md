@@ -1,4 +1,4 @@
-# 📊 Exploring Diverse Datasets : Unveiling Insights with Tableau, SQL, and Spreadsheets 📈
+# 📊 Exploring Diverse Datasets : Unveiling Insights with Tableau, SQL, Python and Spreadsheets 📈
 
 Dive into a world of data exploration and analysis with our GitHub repository! Embark on a journey where we harness the power of Tableau's interactive visualizations, SQL's querying prowess, and the versatility of spreadsheets to unlock hidden stories within a myriad of captivating datasets sourced from www.kaggle.com.
 
