@@ -1,0 +1,23 @@
+📊 Data Analysis Project with SQL, Python & Tableau
+🚀 Project Overview
+
+This project focuses on analyzing computer hardware dataset using:
+🐍 Python for data cleaning, preprocessing, and analysis.
+🗄️ SQL for querying and extracting insights.
+📒 Jupyter Notebook as the main environment for exploration.
+📈 Tableau for creating interactive dashboards and visualizations.
+
+The main goal is to transform raw data into meaningful insights and present them in an engaging and interactive way.
+
+🛠️ Tools & Technologies
+Python Libraries : pandas, numpy, matplotlib, seaborn
+SQL : For structured data queries
+Jupyter Notebook : For analysis and documentation
+
+📑 Key Steps
+🔍 Data Exploration – Understanding dataset structure, missing values, and data types.
+🧹 Data Cleaning – Handling null values, duplicates, and formatting issues.
+📊 SQL Queries – Extracting insights from structured data.
+📉 Python Analysis – Statistical analysis and visualization.
+
+🎨 Tableau Dashboard – Creating interactive visualizations for decision-making.
